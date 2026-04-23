@@ -27,7 +27,7 @@ We work with a dataset of 10,000 unlabeled grayscale images (28×28) representin
 
 ---
 
-### 2️2. Seed Labelling + Augmentation + Self-Training
+### 2. Seed Labelling + Augmentation + Self-Training
 - Manual labelling of 300 samples
 - Data augmentation (rotation, noise, shifts)
 - Initial SVM training
@@ -37,7 +37,7 @@ We work with a dataset of 10,000 unlabeled grayscale images (28×28) representin
 
 ---
 
-### 3️⃣ LLM-Based Labelling with Agreement Validation
+### 3. LLM-Based Labelling with Agreement Validation
 - Benchmark multiple vision-capable LLMs
 - Select top 2 performing models
 - Label dataset independently
