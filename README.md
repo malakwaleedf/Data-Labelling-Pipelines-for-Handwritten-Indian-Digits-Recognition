@@ -8,7 +8,7 @@ We work with a dataset of 10,000 unlabeled grayscale images (28×28) representin
 ---
 
 ## Objectives
-- Design and implement automated labelling pipelines
+- Design and implement automated labelling pipelines 
 - Achieve ≥98% labelling accuracy
 - Minimize total manual annotation time
 - Compare different strategies in terms of accuracy and efficiency
