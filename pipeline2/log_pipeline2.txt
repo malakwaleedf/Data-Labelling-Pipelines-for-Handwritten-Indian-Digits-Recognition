@@ -1,0 +1,245 @@
+(10000, 784)
+Seed labels loaded
+Agumentation done
+Feature extraction done
+SVM-1 trained
+
+===== Classification Results =====
+  Correct : 9853 / 10000
+  Accuracy: 98.53%
+==================================
+
+
+Initial accuracy: 98.53%  (9853/10000)
+
+========================================
+Iteration 1
+========================================
+Label for image 9312: 3
+Label for image 1338: 0
+Label for image 6458: 7
+Label for image 1829: 0
+Label for image 9223: 4
+Label for image 6680: 3
+Label for image 2533: 2
+Label for image 537: 4
+Label for image 1226: 9
+Label for image 8342: 6
+Label for image 7377: 1
+Label for image 8890: 3
+Label for image 3802: 1
+Label for image 988: 5
+Label for image 7406: 0
+Label for image 1625: 5
+Label for image 3355: 2
+Label for image 5808: 7
+Label for image 1955: 0
+Label for image 6581: 1
+Pseudo labels added: 483
+Pseudo labels rejected: 1944
+SVM-1 trained
+
+===== Classification Results =====
+  Correct : 9844 / 10000
+  Accuracy: 98.44%
+==================================
+
+Accuracy after iteration 1: 98.44%  (9844/10000)
+
+========================================
+Iteration 2
+========================================
+Label for image 5535: 1
+Label for image 1070: 1
+Label for image 8424: 0
+Label for image 7152: 3
+Label for image 8896: 0
+Label for image 1674: 1
+Label for image 7739: 0
+Label for image 1474: 7
+Label for image 1241: 9
+Label for image 7017: 0
+Label for image 1755: 4
+Label for image 7664: 1
+Label for image 6803: 1
+Label for image 8688: 1
+Label for image 8460: 9
+Label for image 4821: 5
+Label for image 1993: 4
+Label for image 3343: 1
+Label for image 2014: 1
+Label for image 1040: 4
+Pseudo labels added: 463
+Pseudo labels rejected: 1584
+SVM-2 trained
+
+===== Classification Results =====
+  Correct : 9828 / 10000
+  Accuracy: 98.28%
+==================================
+
+Accuracy after iteration 2: 98.28%  (9828/10000)
+
+========================================
+Iteration 3
+========================================
+Label for image 9981: 9
+Label for image 9274: 3
+Label for image 7152: 3
+Label for image 7558: 5
+Label for image 3257: 7
+Label for image 4745: 0
+Label for image 1875: 2
+Label for image 1010: 5
+Label for image 4189: 5
+Label for image 3433: 0
+Label for image 4532: 1
+Label for image 4911: 6
+Label for image 351: 4
+Label for image 4887: 2
+Label for image 5881: 8
+Label for image 6586: 0
+Label for image 3527: 0
+Label for image 7463: 8
+Label for image 4319: 2
+Label for image 2445: 0
+Pseudo labels added: 406
+Pseudo labels rejected: 1252
+SVM-3 trained
+
+===== Classification Results =====
+  Correct : 9845 / 10000
+  Accuracy: 98.45%
+==================================
+
+Accuracy after iteration 3: 98.45%  (9845/10000)
+
+========================================
+Iteration 4
+========================================
+Label for image 5461: 5
+Label for image 9144: 5
+Label for image 2977: 1
+Label for image 7246: 1
+Label for image 2497: 4
+Label for image 9237: 9
+Label for image 3756: 8
+Label for image 4434: 5
+Label for image 6289: 7
+Label for image 9295: 5
+Label for image 4094: 4
+Label for image 9308: 3
+Label for image 158: 1
+Label for image 1510: 3
+Label for image 9274: 3
+Label for image 6114: 4
+Label for image 2125: 4
+Label for image 4364: 9
+Label for image 8190: 3
+Label for image 322: 1
+Pseudo labels added: 417
+Pseudo labels rejected: 963
+SVM-4 trained
+
+===== Classification Results =====
+  Correct : 9857 / 10000
+  Accuracy: 98.57%
+==================================
+
+Accuracy after iteration 4: 98.57%  (9857/10000)
+
+========================================
+Iteration 5
+========================================
+Label for image 7152: 3
+Label for image 8123: 4
+Label for image 9274: 3
+Label for image 7216: 1
+Label for image 8870: 1
+Label for image 7801: 5
+Label for image 7463: 8
+Label for image 5534: 4
+Label for image 248: 0
+Label for image 2448: 0
+Label for image 2977: 1
+Label for image 1268: 1
+Label for image 9726: 0
+Label for image 9312: 3
+Label for image 5511: 1
+Label for image 632: 6
+Label for image 8898: 6
+Label for image 1841: 2
+Label for image 2867: 6
+Label for image 1557: 7
+Pseudo labels added: 334
+Pseudo labels rejected: 789
+SVM-5 trained
+
+===== Classification Results =====
+  Correct : 9867 / 10000
+  Accuracy: 98.67%
+==================================
+
+Accuracy after iteration 5: 98.67%  (9867/10000)
+
+========================================
+Iteration 6
+========================================
+Label for image 6179: 7
+Label for image 9575: 7
+Label for image 1841: 2
+Label for image 9360: 5
+Label for image 4524: 1
+Label for image 7552: 7
+Label for image 9494: 0
+Label for image 2977: 1
+Label for image 2230: 4
+Label for image 8033: 6
+Label for image 9771: 5
+Label for image 7152: 3
+Label for image 7403: 2
+Label for image 9605: 4
+Label for image 8604: 1
+Label for image 2366: 0
+Label for image 9855: 0
+Label for image 2867: 6
+Label for image 8105: 4
+Label for image 8741: 9
+Pseudo labels added: 307
+Pseudo labels rejected: 542
+SVM-6 trained
+
+===== Classification Results =====
+  Correct : 9868 / 10000
+  Accuracy: 98.68%
+==================================
+
+Accuracy after iteration 6: 98.68%  (9868/10000)
+
+Target reached at iteration 6!
+
+========================================
+FINAL REPORT
+========================================
+Final accuracy      : 98.68%
+Iterations done     : 7
+Images labelled     : 420
+Total manual time   : 4200s = 1.17 hours
+vs baseline (27.8h) : saved 26.6 hours
+Model saved!
+
+
+Loading model...
+  Model loaded: SVC
+  Labels loaded: 500 entries
+
+Loading images from 'test_images'...
+  Loaded 500 images
+Extracting HOG features...
+  Feature matrix shape: (500, 324)
+
+Running predictions...
+
+ ========================================
+  Accuracy : 98.60%  (493/500)
+ ========================================

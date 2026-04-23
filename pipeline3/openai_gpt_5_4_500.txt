@@ -1,0 +1,3003 @@
+
+MODEL: openai/gpt-5.4
+
+
+6045.bmp  | Ground Truth : 4   | Prediction: 6    | WRONG
+
+
+Running accuracy: 0/1 = 0.00%
+
+
+1089.bmp  | Ground Truth : 3   | Prediction: 2    | WRONG
+
+
+Running accuracy: 0/2 = 0.00%
+
+
+6009.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 1/3 = 33.33%
+
+
+3360.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 2/4 = 50.00%
+
+
+9166.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 3/5 = 60.00%
+
+
+623.bmp  | Ground Truth : 4   | Prediction: 6    | WRONG
+
+
+Running accuracy: 3/6 = 50.00%
+
+
+638.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 4/7 = 57.14%
+
+
+6748.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 5/8 = 62.50%
+
+
+1789.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 6/9 = 66.67%
+
+
+2035.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 7/10 = 70.00%
+
+
+6247.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 8/11 = 72.73%
+
+
+702.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 9/12 = 75.00%
+
+
+8996.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 10/13 = 76.92%
+
+
+8700.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 11/14 = 78.57%
+
+
+4088.bmp  | Ground Truth : 2   | Prediction: 5    | WRONG
+
+
+Running accuracy: 11/15 = 73.33%
+
+
+5644.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 12/16 = 75.00%
+
+
+6299.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 13/17 = 76.47%
+
+
+7776.bmp  | Ground Truth : 5   | Prediction: 9    | WRONG
+
+
+Running accuracy: 13/18 = 72.22%
+
+
+1.bmp  | Ground Truth : 9   | Prediction: 2    | WRONG
+
+
+Running accuracy: 13/19 = 68.42%
+
+
+2368.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 14/20 = 70.00%
+
+
+892.bmp  | Ground Truth : 3   | Prediction: 8    | WRONG
+
+
+Running accuracy: 14/21 = 66.67%
+
+
+9570.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 15/22 = 68.18%
+
+
+6310.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 16/23 = 69.57%
+
+
+844.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 17/24 = 70.83%
+
+
+9991.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 18/25 = 72.00%
+
+
+9937.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 19/26 = 73.08%
+
+
+4874.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 20/27 = 74.07%
+
+
+9856.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 21/28 = 75.00%
+
+
+9120.bmp  | Ground Truth : 2   | Prediction: 9    | WRONG
+
+
+Running accuracy: 21/29 = 72.41%
+
+
+3997.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 22/30 = 73.33%
+
+
+5227.bmp  | Ground Truth : 4   | Prediction: 2    | WRONG
+
+
+Running accuracy: 22/31 = 70.97%
+
+
+3685.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 23/32 = 71.88%
+
+
+9814.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 24/33 = 72.73%
+
+
+9056.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 25/34 = 73.53%
+
+
+1285.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 26/35 = 74.29%
+
+
+9463.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 27/36 = 75.00%
+
+
+9792.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 28/37 = 75.68%
+
+
+1971.bmp  | Ground Truth : 7   | Prediction: 8    | WRONG
+
+
+Running accuracy: 28/38 = 73.68%
+
+
+8079.bmp  | Ground Truth : 3   | Prediction: 8    | WRONG
+
+
+Running accuracy: 28/39 = 71.79%
+
+
+9219.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 29/40 = 72.50%
+
+
+9202.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 30/41 = 73.17%
+
+
+2566.bmp  | Ground Truth : 3   | Prediction: 8    | WRONG
+
+
+Running accuracy: 30/42 = 71.43%
+
+
+1929.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 31/43 = 72.09%
+
+
+4294.bmp  | Ground Truth : 3   | Prediction: 8    | WRONG
+
+
+Running accuracy: 31/44 = 70.45%
+
+
+8924.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 32/45 = 71.11%
+
+
+7771.bmp  | Ground Truth : 4   | Prediction: 6    | WRONG
+
+
+Running accuracy: 32/46 = 69.57%
+
+
+8072.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 33/47 = 70.21%
+
+
+9507.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 34/48 = 70.83%
+
+
+7249.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 35/49 = 71.43%
+
+
+3410.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 36/50 = 72.00%
+
+
+
+5092.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 37/51 = 72.55%
+
+
+5367.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 38/52 = 73.08%
+
+
+5420.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 39/53 = 73.58%
+
+
+2519.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 40/54 = 74.07%
+
+
+6869.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 41/55 = 74.55%
+
+
+1536.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 42/56 = 75.00%
+
+
+8666.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 43/57 = 75.44%
+
+
+2669.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 44/58 = 75.86%
+
+
+445.bmp  | Ground Truth : 3   | Prediction: 2    | WRONG
+
+
+Running accuracy: 44/59 = 74.58%
+
+
+9970.bmp  | Ground Truth : 2   | Prediction: 5    | WRONG
+
+
+Running accuracy: 44/60 = 73.33%
+
+
+7951.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 45/61 = 73.77%
+
+
+1889.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 46/62 = 74.19%
+
+
+5425.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 47/63 = 74.60%
+
+
+8040.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 48/64 = 75.00%
+
+
+5151.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 49/65 = 75.38%
+
+
+658.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 50/66 = 75.76%
+
+
+1125.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 51/67 = 76.12%
+
+
+230.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 52/68 = 76.47%
+
+
+8789.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 53/69 = 76.81%
+
+
+5821.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 54/70 = 77.14%
+
+
+4696.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 55/71 = 77.46%
+
+
+9942.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 56/72 = 77.78%
+
+
+5608.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 57/73 = 78.08%
+
+
+7506.bmp  | Ground Truth : 2   | Prediction: 3    | WRONG
+
+
+Running accuracy: 57/74 = 77.03%
+
+
+9698.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 58/75 = 77.33%
+
+
+3856.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 59/76 = 77.63%
+
+
+4840.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 60/77 = 77.92%
+
+
+4037.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 61/78 = 78.21%
+
+
+4072.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 62/79 = 78.48%
+
+
+4490.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 63/80 = 78.75%
+
+
+2732.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 64/81 = 79.01%
+
+
+5688.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 65/82 = 79.27%
+
+
+5935.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 66/83 = 79.52%
+
+
+7010.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 67/84 = 79.76%
+
+
+776.bmp  | Ground Truth : 5   | Prediction: 2    | WRONG
+
+
+Running accuracy: 67/85 = 78.82%
+
+
+9526.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 68/86 = 79.07%
+
+
+6833.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 69/87 = 79.31%
+
+
+9412.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 70/88 = 79.55%
+
+
+179.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 71/89 = 79.78%
+
+
+2534.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 72/90 = 80.00%
+
+
+7677.bmp  | Ground Truth : 7   | Prediction: 6    | WRONG
+
+
+Running accuracy: 72/91 = 79.12%
+
+
+847.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 73/92 = 79.35%
+
+
+5031.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 74/93 = 79.57%
+
+
+6933.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 75/94 = 79.79%
+
+
+8670.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 76/95 = 80.00%
+
+
+4751.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 77/96 = 80.21%
+
+
+823.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 78/97 = 80.41%
+
+
+7940.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 79/98 = 80.61%
+
+
+2246.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 80/99 = 80.81%
+
+
+228.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 81/100 = 81.00%
+
+
+3175.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 82/101 = 81.19%
+
+
+1993.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 83/102 = 81.37%
+
+
+9854.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 84/103 = 81.55%
+
+
+8993.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 85/104 = 81.73%
+
+
+8648.bmp  | Ground Truth : 8   | Prediction: 7    | WRONG
+
+
+Running accuracy: 85/105 = 80.95%
+
+
+3345.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 86/106 = 81.13%
+
+
+5499.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 87/107 = 81.31%
+
+
+9859.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 88/108 = 81.48%
+
+
+3926.bmp  | Ground Truth : 2   | Prediction: 5    | WRONG
+
+
+Running accuracy: 88/109 = 80.73%
+
+
+3885.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 89/110 = 80.91%
+
+
+3413.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 90/111 = 81.08%
+
+
+4254.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 91/112 = 81.25%
+
+
+4693.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 92/113 = 81.42%
+
+
+8396.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 93/114 = 81.58%
+
+
+1510.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 94/115 = 81.74%
+
+
+3184.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 95/116 = 81.90%
+
+
+2662.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 96/117 = 82.05%
+
+
+6098.bmp  | Ground Truth : 0   | Prediction: 1    | WRONG
+
+
+Running accuracy: 96/118 = 81.36%
+
+
+5335.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 97/119 = 81.51%
+
+
+7800.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 98/120 = 81.67%
+
+
+1988.bmp  | Ground Truth : 0   | Prediction: 9    | WRONG
+
+
+Running accuracy: 98/121 = 80.99%
+
+
+7151.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 99/122 = 81.15%
+
+
+439.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 100/123 = 81.30%
+
+
+5501.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 101/124 = 81.45%
+
+
+7085.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 102/125 = 81.60%
+
+
+6766.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 103/126 = 81.75%
+
+
+7070.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 104/127 = 81.89%
+
+
+6427.bmp  | Ground Truth : 8   | Prediction: 7    | WRONG
+
+
+Running accuracy: 104/128 = 81.25%
+
+
+5481.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 105/129 = 81.40%
+
+
+7686.bmp  | Ground Truth : 5   | Prediction: 8    | WRONG
+
+
+Running accuracy: 105/130 = 80.77%
+
+
+4432.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 106/131 = 80.92%
+
+
+6501.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 107/132 = 81.06%
+
+
+380.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 108/133 = 81.20%
+
+
+421.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 109/134 = 81.34%
+
+
+724.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 110/135 = 81.48%
+
+
+6304.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 111/136 = 81.62%
+
+
+7241.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 112/137 = 81.75%
+
+
+8804.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 113/138 = 81.88%
+
+
+960.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 114/139 = 82.01%
+
+
+3801.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 115/140 = 82.14%
+
+
+8358.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 116/141 = 82.27%
+
+
+8639.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 117/142 = 82.39%
+
+
+2138.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 118/143 = 82.52%
+
+
+6920.bmp  | Ground Truth : 2   | Prediction: 3    | WRONG
+
+
+Running accuracy: 118/144 = 81.94%
+
+
+2510.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 119/145 = 82.07%
+
+
+2294.bmp  | Ground Truth : 9   | Prediction: 1    | WRONG
+
+
+Running accuracy: 119/146 = 81.51%
+
+
+3260.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 120/147 = 81.63%
+
+
+6754.bmp  | Ground Truth : 0   | Prediction: 9    | WRONG
+
+
+Running accuracy: 120/148 = 81.08%
+
+
+3401.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 121/149 = 81.21%
+
+
+4782.bmp  | Ground Truth : 5   | Prediction: 9    | WRONG
+
+
+Running accuracy: 121/150 = 80.67%
+
+
+1807.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 122/151 = 80.79%
+
+
+6068.bmp  | Ground Truth : 7   | Prediction: 6    | WRONG
+
+
+Running accuracy: 122/152 = 80.26%
+
+
+3298.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 123/153 = 80.39%
+
+
+5653.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 124/154 = 80.52%
+
+
+78.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 125/155 = 80.65%
+
+
+8607.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 126/156 = 80.77%
+
+
+9664.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 127/157 = 80.89%
+
+
+1373.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 128/158 = 81.01%
+
+
+3582.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 129/159 = 81.13%
+
+
+1133.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 130/160 = 81.25%
+
+
+7944.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 131/161 = 81.37%
+
+
+4346.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 132/162 = 81.48%
+
+
+9196.bmp  | Ground Truth : 0   | Prediction: 5    | WRONG
+
+
+Running accuracy: 132/163 = 80.98%
+
+
+7697.bmp  | Ground Truth : 0   | Prediction: 9    | WRONG
+
+
+Running accuracy: 132/164 = 80.49%
+
+
+8062.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 133/165 = 80.61%
+
+
+356.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 134/166 = 80.72%
+
+
+9299.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 135/167 = 80.84%
+
+
+9901.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 136/168 = 80.95%
+
+
+4596.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 137/169 = 81.07%
+
+
+8249.bmp  | Ground Truth : 5   | Prediction: 2    | WRONG
+
+
+Running accuracy: 137/170 = 80.59%
+
+
+8064.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 138/171 = 80.70%
+
+
+8590.bmp  | Ground Truth : 4   | Prediction: 3    | WRONG
+
+
+Running accuracy: 138/172 = 80.23%
+
+
+1254.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 139/173 = 80.35%
+
+
+69.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 140/174 = 80.46%
+
+
+6634.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 141/175 = 80.57%
+
+
+4972.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 142/176 = 80.68%
+
+
+118.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 143/177 = 80.79%
+
+
+8209.bmp  | Ground Truth : 2   | Prediction: 3    | WRONG
+
+
+Running accuracy: 143/178 = 80.34%
+
+
+7660.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 144/179 = 80.45%
+
+
+8202.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 145/180 = 80.56%
+
+
+4815.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 146/181 = 80.66%
+
+
+7118.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 147/182 = 80.77%
+
+
+6395.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 148/183 = 80.87%
+
+
+4937.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 149/184 = 80.98%
+
+
+2579.bmp  | Ground Truth : 4   | Prediction: 6    | WRONG
+
+
+Running accuracy: 149/185 = 80.54%
+
+
+1692.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 150/186 = 80.65%
+
+
+8379.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 151/187 = 80.75%
+
+
+592.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 152/188 = 80.85%
+
+
+6781.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 153/189 = 80.95%
+
+
+368.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 154/190 = 81.05%
+
+
+828.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 155/191 = 81.15%
+
+
+3726.bmp  | Ground Truth : 8   | Prediction: 7    | WRONG
+
+
+Running accuracy: 155/192 = 80.73%
+
+
+2307.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 156/193 = 80.83%
+
+
+1085.bmp  | Ground Truth : 0   | Prediction: 1    | WRONG
+
+
+Running accuracy: 156/194 = 80.41%
+
+
+6336.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 157/195 = 80.51%
+
+
+5656.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 158/196 = 80.61%
+
+
+4203.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 159/197 = 80.71%
+
+
+2987.bmp  | Ground Truth : 3   | Prediction: 8    | WRONG
+
+
+Running accuracy: 159/198 = 80.30%
+
+
+4235.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 160/199 = 80.40%
+
+
+6650.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 161/200 = 80.50%
+
+
+5250.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 162/201 = 80.60%
+
+
+5459.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 163/202 = 80.69%
+
+
+8542.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 164/203 = 80.79%
+
+
+202.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 165/204 = 80.88%
+
+
+5540.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 166/205 = 80.98%
+
+
+4825.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 167/206 = 81.07%
+
+
+5868.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 168/207 = 81.16%
+
+
+7153.bmp  | Ground Truth : 2   | Prediction: 9    | WRONG
+
+
+Running accuracy: 168/208 = 80.77%
+
+
+1263.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 169/209 = 80.86%
+
+
+4943.bmp  | Ground Truth : 0   | Prediction: 5    | WRONG
+
+
+Running accuracy: 169/210 = 80.48%
+
+
+9018.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 170/211 = 80.57%
+
+
+5822.bmp  | Ground Truth : 6   | Prediction: 7    | WRONG
+
+
+Running accuracy: 170/212 = 80.19%
+
+
+737.bmp  | Ground Truth : 4   | Prediction: 2    | WRONG
+
+
+Running accuracy: 170/213 = 79.81%
+
+
+9220.bmp  | Ground Truth : 6   | Prediction: 3    | WRONG
+
+
+Running accuracy: 170/214 = 79.44%
+
+
+4299.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 171/215 = 79.53%
+
+
+5624.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 172/216 = 79.63%
+
+
+6895.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 173/217 = 79.72%
+
+
+6935.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 174/218 = 79.82%
+
+
+6414.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 175/219 = 79.91%
+
+
+2173.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 176/220 = 80.00%
+
+
+3070.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 177/221 = 80.09%
+
+
+1014.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 178/222 = 80.18%
+
+
+3654.bmp  | Ground Truth : 3   | Prediction: 7    | WRONG
+
+
+Running accuracy: 178/223 = 79.82%
+
+
+330.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 179/224 = 79.91%
+
+
+8962.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 180/225 = 80.00%
+
+
+6241.bmp  | Ground Truth : 5   | Prediction: 2    | WRONG
+
+
+Running accuracy: 180/226 = 79.65%
+
+
+8301.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 181/227 = 79.74%
+
+
+8539.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 182/228 = 79.82%
+
+
+2583.bmp  | Ground Truth : 1   | Prediction: 3    | WRONG
+
+
+Running accuracy: 182/229 = 79.48%
+
+
+862.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 183/230 = 79.57%
+
+
+5917.bmp  | Ground Truth : 8   | Prediction: 5    | WRONG
+
+
+Running accuracy: 183/231 = 79.22%
+
+
+6624.bmp  | Ground Truth : 5   | Prediction: 9    | WRONG
+
+
+Running accuracy: 183/232 = 78.88%
+
+
+3055.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 184/233 = 78.97%
+
+
+1740.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 185/234 = 79.06%
+
+
+3043.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 186/235 = 79.15%
+
+
+7667.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 187/236 = 79.24%
+
+
+6090.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 188/237 = 79.32%
+
+
+7618.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 189/238 = 79.41%
+
+
+452.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 190/239 = 79.50%
+
+
+1980.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 191/240 = 79.58%
+
+
+1379.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 192/241 = 79.67%
+
+
+2595.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 193/242 = 79.75%
+
+
+3590.bmp  | Ground Truth : 2   | Prediction: 9    | WRONG
+
+
+Running accuracy: 193/243 = 79.42%
+
+
+2946.bmp  | Ground Truth : 7   | Prediction: 6    | WRONG
+
+
+Running accuracy: 193/244 = 79.10%
+
+
+4162.bmp  | Ground Truth : 0   | Prediction: 9    | WRONG
+
+
+Running accuracy: 193/245 = 78.78%
+
+
+5283.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 194/246 = 78.86%
+
+
+352.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 195/247 = 78.95%
+
+
+1053.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 196/248 = 79.03%
+
+
+8129.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 197/249 = 79.12%
+
+
+8562.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 198/250 = 79.20%
+
+
+98.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 199/251 = 79.28%
+
+
+197.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 200/252 = 79.37%
+
+
+7855.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 201/253 = 79.45%
+
+
+5628.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 202/254 = 79.53%
+
+
+305.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 203/255 = 79.61%
+
+
+7237.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 204/256 = 79.69%
+
+
+6669.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 205/257 = 79.77%
+
+
+4612.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 206/258 = 79.84%
+
+
+3807.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 207/259 = 79.92%
+
+
+3214.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 208/260 = 80.00%
+
+
+5294.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 209/261 = 80.08%
+
+
+8569.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 210/262 = 80.15%
+
+
+2832.bmp  | Ground Truth : 5   | Prediction: 8    | WRONG
+
+
+Running accuracy: 210/263 = 79.85%
+
+
+3670.bmp  | Ground Truth : 6   | Prediction: 3    | WRONG
+
+
+Running accuracy: 210/264 = 79.55%
+
+
+4628.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 211/265 = 79.62%
+
+
+2986.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 212/266 = 79.70%
+
+
+5569.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 213/267 = 79.78%
+
+
+7365.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 214/268 = 79.85%
+
+
+6170.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 215/269 = 79.93%
+
+
+9514.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 216/270 = 80.00%
+
+
+6715.bmp  | Ground Truth : 0   | Prediction: 5    | WRONG
+
+
+Running accuracy: 216/271 = 79.70%
+
+
+9150.bmp  | Ground Truth : 4   | Prediction: 6    | WRONG
+
+
+Running accuracy: 216/272 = 79.41%
+
+
+7897.bmp  | Ground Truth : 4   | Prediction: 2    | WRONG
+
+
+Running accuracy: 216/273 = 79.12%
+
+
+7272.bmp  | Ground Truth : 2   | Prediction: 9    | WRONG
+
+
+Running accuracy: 216/274 = 78.83%
+
+
+991.bmp  | Ground Truth : 0   | Prediction: 5    | WRONG
+
+
+Running accuracy: 216/275 = 78.55%
+
+
+3206.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 217/276 = 78.62%
+
+
+3700.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 218/277 = 78.70%
+
+
+3191.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 219/278 = 78.78%
+
+
+8511.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 220/279 = 78.85%
+
+
+4545.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 221/280 = 78.93%
+
+
+9073.bmp  | Ground Truth : 1   | Prediction: 3    | WRONG
+
+
+Running accuracy: 221/281 = 78.65%
+
+
+3560.bmp  | Ground Truth : 5   | Prediction: 9    | WRONG
+
+
+Running accuracy: 221/282 = 78.37%
+
+
+1991.bmp  | Ground Truth : 4   | Prediction: 2    | WRONG
+
+
+Running accuracy: 221/283 = 78.09%
+
+
+1205.bmp  | Ground Truth : 4   | Prediction: 3    | WRONG
+
+
+Running accuracy: 221/284 = 77.82%
+
+
+3498.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 222/285 = 77.89%
+
+
+6765.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 223/286 = 77.97%
+
+
+8873.bmp  | Ground Truth : 7   | Prediction: 6    | WRONG
+
+
+Running accuracy: 223/287 = 77.70%
+
+
+6018.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 224/288 = 77.78%
+
+
+1411.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 225/289 = 77.85%
+
+
+3966.bmp  | Ground Truth : 2   | Prediction: 5    | WRONG
+
+
+Running accuracy: 225/290 = 77.59%
+
+
+3503.bmp  | Ground Truth : 0   | Prediction: 1    | WRONG
+
+
+Running accuracy: 225/291 = 77.32%
+
+
+8239.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 226/292 = 77.40%
+
+
+7814.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 227/293 = 77.47%
+
+
+3983.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 228/294 = 77.55%
+
+
+6111.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 229/295 = 77.63%
+
+
+5236.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 230/296 = 77.70%
+
+
+3101.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 231/297 = 77.78%
+
+
+3886.bmp  | Ground Truth : 8   | Prediction: 7    | WRONG
+
+
+Running accuracy: 231/298 = 77.52%
+
+
+585.bmp  | Ground Truth : 8   | Prediction: 5    | WRONG
+
+
+Running accuracy: 231/299 = 77.26%
+
+
+6915.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 232/300 = 77.33%
+
+
+8883.bmp  | Ground Truth : 7   | Prediction: 3    | WRONG
+
+
+Running accuracy: 232/301 = 77.08%
+
+
+6132.bmp  | Ground Truth : 5   | Prediction: 9    | WRONG
+
+
+Running accuracy: 232/302 = 76.82%
+
+
+8069.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 233/303 = 76.90%
+
+
+5337.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 234/304 = 76.97%
+
+
+4135.bmp  | Ground Truth : 2   | Prediction: 9    | WRONG
+
+
+Running accuracy: 234/305 = 76.72%
+
+
+5471.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 235/306 = 76.80%
+
+
+2748.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 236/307 = 76.87%
+
+
+438.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 237/308 = 76.95%
+
+
+889.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 238/309 = 77.02%
+
+
+2893.bmp  | Ground Truth : 5   | Prediction: 2    | WRONG
+
+
+Running accuracy: 238/310 = 76.77%
+
+
+5438.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 239/311 = 76.85%
+
+
+4806.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 240/312 = 76.92%
+
+
+7266.bmp  | Ground Truth : 4   | Prediction: 2    | WRONG
+
+
+Running accuracy: 240/313 = 76.68%
+
+
+5330.bmp  | Ground Truth : 8   | Prediction: 5    | WRONG
+
+
+Running accuracy: 240/314 = 76.43%
+
+
+4160.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 241/315 = 76.51%
+
+
+7574.bmp  | Ground Truth : 4   | Prediction: 6    | WRONG
+
+
+Running accuracy: 241/316 = 76.27%
+
+
+3715.bmp  | Ground Truth : 2   | Prediction: 3    | WRONG
+
+
+Running accuracy: 241/317 = 76.03%
+
+
+1745.bmp  | Ground Truth : 9   | Prediction: 1    | WRONG
+
+
+Running accuracy: 241/318 = 75.79%
+
+
+3596.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 242/319 = 75.86%
+
+
+5108.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 243/320 = 75.94%
+
+
+2177.bmp  | Ground Truth : 6   | Prediction: 2    | WRONG
+
+
+Running accuracy: 243/321 = 75.70%
+
+
+2850.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 244/322 = 75.78%
+
+
+2233.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 245/323 = 75.85%
+
+
+7012.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 246/324 = 75.93%
+
+
+345.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 247/325 = 76.00%
+
+
+5429.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 248/326 = 76.07%
+
+
+1919.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 249/327 = 76.15%
+
+
+4726.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 250/328 = 76.22%
+
+
+9710.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 251/329 = 76.29%
+
+
+2162.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 252/330 = 76.36%
+
+
+987.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 253/331 = 76.44%
+
+
+4413.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 254/332 = 76.51%
+
+
+9300.bmp  | Ground Truth : 4   | Prediction: 6    | WRONG
+
+
+Running accuracy: 254/333 = 76.28%
+
+
+4889.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 255/334 = 76.35%
+
+
+8035.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 256/335 = 76.42%
+
+
+4559.bmp  | Ground Truth : 6   | Prediction: 3    | WRONG
+
+
+Running accuracy: 256/336 = 76.19%
+
+
+9538.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 257/337 = 76.26%
+
+
+5754.bmp  | Ground Truth : 6   | Prediction: 7    | WRONG
+
+
+Running accuracy: 257/338 = 76.04%
+
+
+7763.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 258/339 = 76.11%
+
+
+8271.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 259/340 = 76.18%
+
+
+2899.bmp  | Ground Truth : 5   | Prediction: 2    | WRONG
+
+
+Running accuracy: 259/341 = 75.95%
+
+
+7792.bmp  | Ground Truth : 7   | Prediction: 8    | WRONG
+
+
+Running accuracy: 259/342 = 75.73%
+
+
+2092.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 260/343 = 75.80%
+
+
+8676.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 261/344 = 75.87%
+
+
+7454.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 262/345 = 75.94%
+
+
+9050.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 263/346 = 76.01%
+
+
+7211.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 264/347 = 76.08%
+
+
+6157.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 265/348 = 76.15%
+
+
+8345.bmp  | Ground Truth : 8   | Prediction: 7    | WRONG
+
+
+Running accuracy: 265/349 = 75.93%
+
+
+7362.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 266/350 = 76.00%
+
+
+9346.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 267/351 = 76.07%
+
+
+1999.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 268/352 = 76.14%
+
+
+1251.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 269/353 = 76.20%
+
+
+2097.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 270/354 = 76.27%
+
+
+7009.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 271/355 = 76.34%
+
+
+1041.bmp  | Ground Truth : 7   | Prediction: 3    | WRONG
+
+
+Running accuracy: 271/356 = 76.12%
+
+
+9921.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 272/357 = 76.19%
+
+
+6507.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 273/358 = 76.26%
+
+
+415.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 274/359 = 76.32%
+
+
+2059.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 275/360 = 76.39%
+
+
+6268.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 276/361 = 76.45%
+
+
+7112.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 277/362 = 76.52%
+
+
+7522.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 278/363 = 76.58%
+
+
+6937.bmp  | Ground Truth : 4   | Prediction: 3    | WRONG
+
+
+Running accuracy: 278/364 = 76.37%
+
+
+9542.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 279/365 = 76.44%
+
+
+4404.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 280/366 = 76.50%
+
+
+5740.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 281/367 = 76.57%
+
+
+3765.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 282/368 = 76.63%
+
+
+9068.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 283/369 = 76.69%
+
+
+882.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 284/370 = 76.76%
+
+
+4807.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 285/371 = 76.82%
+
+
+9113.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 286/372 = 76.88%
+
+
+6134.bmp  | Ground Truth : 4   | Prediction: 3    | WRONG
+
+
+Running accuracy: 286/373 = 76.68%
+
+
+5396.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 287/374 = 76.74%
+
+
+5470.bmp  | Ground Truth : 7   | Prediction: 6    | WRONG
+
+
+Running accuracy: 287/375 = 76.53%
+
+
+6049.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 288/376 = 76.60%
+
+
+2486.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 289/377 = 76.66%
+
+
+7294.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 290/378 = 76.72%
+
+
+6580.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 291/379 = 76.78%
+
+
+3508.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 292/380 = 76.84%
+
+
+6967.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 293/381 = 76.90%
+
+
+7324.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 294/382 = 76.96%
+
+
+344.bmp  | Ground Truth : 9   | Prediction: 1    | WRONG
+
+
+Running accuracy: 294/383 = 76.76%
+
+
+3786.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 295/384 = 76.82%
+
+
+3030.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 296/385 = 76.88%
+
+
+6943.bmp  | Ground Truth : 9   | Prediction: 1    | WRONG
+
+
+Running accuracy: 296/386 = 76.68%
+
+
+7884.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 297/387 = 76.74%
+
+
+1676.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 298/388 = 76.80%
+
+
+3639.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 299/389 = 76.86%
+
+
+4185.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 300/390 = 76.92%
+
+
+5830.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 301/391 = 76.98%
+
+
+6988.bmp  | Ground Truth : 9   | Prediction: 5    | WRONG
+
+
+Running accuracy: 301/392 = 76.79%
+
+
+9983.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 302/393 = 76.84%
+
+
+1905.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 303/394 = 76.90%
+
+
+586.bmp  | Ground Truth : 1   | Prediction: 6    | WRONG
+
+
+Running accuracy: 303/395 = 76.71%
+
+
+6257.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 304/396 = 76.77%
+
+
+5158.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 305/397 = 76.83%
+
+
+6849.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 306/398 = 76.88%
+
+
+3180.bmp  | Ground Truth : 4   | Prediction: 6    | WRONG
+
+
+Running accuracy: 306/399 = 76.69%
+
+
+6584.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 307/400 = 76.75%
+
+
+9951.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 308/401 = 76.81%
+
+
+3713.bmp  | Ground Truth : 9   | Prediction: 2    | WRONG
+
+
+Running accuracy: 308/402 = 76.62%
+
+
+8002.bmp  | Ground Truth : 7   | Prediction: 8    | WRONG
+
+
+Running accuracy: 308/403 = 76.43%
+
+
+1784.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 309/404 = 76.49%
+
+
+2021.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 310/405 = 76.54%
+
+
+4505.bmp  | Ground Truth : 9   | Prediction: 2    | WRONG
+
+
+Running accuracy: 310/406 = 76.35%
+
+
+1211.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 311/407 = 76.41%
+
+
+7512.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 312/408 = 76.47%
+
+
+7326.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 313/409 = 76.53%
+
+
+3900.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 314/410 = 76.59%
+
+
+9127.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 315/411 = 76.64%
+
+
+6713.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 316/412 = 76.70%
+
+
+7238.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 317/413 = 76.76%
+
+
+1467.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 318/414 = 76.81%
+
+
+7665.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 319/415 = 76.87%
+
+
+7571.bmp  | Ground Truth : 4   | Prediction: 6    | WRONG
+
+
+Running accuracy: 319/416 = 76.68%
+
+
+8431.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 320/417 = 76.74%
+
+
+6425.bmp  | Ground Truth : 5   | Prediction: 2    | WRONG
+
+
+Running accuracy: 320/418 = 76.56%
+
+
+1335.bmp  | Ground Truth : 5   | Prediction: 8    | WRONG
+
+
+Running accuracy: 320/419 = 76.37%
+
+
+8621.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 321/420 = 76.43%
+
+
+6640.bmp  | Ground Truth : 2   | Prediction: 5    | WRONG
+
+
+Running accuracy: 321/421 = 76.25%
+
+
+53.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 322/422 = 76.30%
+
+
+7425.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 323/423 = 76.36%
+
+
+7486.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 324/424 = 76.42%
+
+
+9191.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 325/425 = 76.47%
+
+
+1602.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 326/426 = 76.53%
+
+
+9675.bmp  | Ground Truth : 9   | Prediction: 5    | WRONG
+
+
+Running accuracy: 326/427 = 76.35%
+
+
+3523.bmp  | Ground Truth : 1   | Prediction: 6    | WRONG
+
+
+Running accuracy: 326/428 = 76.17%
+
+
+2310.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 327/429 = 76.22%
+
+
+9678.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 328/430 = 76.28%
+
+
+5027.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 329/431 = 76.33%
+
+
+5136.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 330/432 = 76.39%
+
+
+7169.bmp  | Ground Truth : 3   | Prediction: 2    | WRONG
+
+
+Running accuracy: 330/433 = 76.21%
+
+
+4914.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 331/434 = 76.27%
+
+
+9511.bmp  | Ground Truth : 3   | Prediction: 8    | WRONG
+
+
+Running accuracy: 331/435 = 76.09%
+
+
+4016.bmp  | Ground Truth : 2   | Prediction: 5    | WRONG
+
+
+Running accuracy: 331/436 = 75.92%
+
+
+1537.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 332/437 = 75.97%
+
+
+6891.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 333/438 = 76.03%
+
+
+1224.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 334/439 = 76.08%
+
+
+9508.bmp  | Ground Truth : 2   | Prediction: 3    | WRONG
+
+
+Running accuracy: 334/440 = 75.91%
+
+
+9821.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 335/441 = 75.96%
+
+
+8687.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 336/442 = 76.02%
+
+
+3160.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 337/443 = 76.07%
+
+
+3870.bmp  | Ground Truth : 2   | Prediction: 9    | WRONG
+
+
+Running accuracy: 337/444 = 75.90%
+
+
+2642.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 338/445 = 75.96%
+
+
+4574.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 339/446 = 76.01%
+
+
+138.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 340/447 = 76.06%
+
+
+7594.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 341/448 = 76.12%
+
+
+5921.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 342/449 = 76.17%
+
+
+9717.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 343/450 = 76.22%
+
+
+3760.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 344/451 = 76.27%
+
+
+3382.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 345/452 = 76.33%
+
+
+6956.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 346/453 = 76.38%
+
+
+4029.bmp  | Ground Truth : 0   | Prediction: 9    | WRONG
+
+
+Running accuracy: 346/454 = 76.21%
+
+
+4799.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 347/455 = 76.26%
+
+
+4923.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 348/456 = 76.32%
+
+
+1608.bmp  | Ground Truth : 2   | Prediction: 9    | WRONG
+
+
+Running accuracy: 348/457 = 76.15%
+
+
+9118.bmp  | Ground Truth : 1   | Prediction: 7    | WRONG
+
+
+Running accuracy: 348/458 = 75.98%
+
+
+3500.bmp  | Ground Truth : 3   | Prediction: 8    | WRONG
+
+
+Running accuracy: 348/459 = 75.82%
+
+
+2397.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 349/460 = 75.87%
+
+
+2454.bmp  | Ground Truth : 5   | Prediction: 2    | WRONG
+
+
+Running accuracy: 349/461 = 75.70%
+
+
+4614.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 350/462 = 75.76%
+
+
+2784.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 351/463 = 75.81%
+
+
+5129.bmp  | Ground Truth : 6   | Prediction: 6    | CORRECT
+
+
+Running accuracy: 352/464 = 75.86%
+
+
+4201.bmp  | Ground Truth : 4   | Prediction: 2    | WRONG
+
+
+Running accuracy: 352/465 = 75.70%
+
+
+5216.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 353/466 = 75.75%
+
+
+7477.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 354/467 = 75.80%
+
+
+2274.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 355/468 = 75.85%
+
+
+5042.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 356/469 = 75.91%
+
+
+8489.bmp  | Ground Truth : 3   | Prediction: 7    | WRONG
+
+
+Running accuracy: 356/470 = 75.74%
+
+
+4847.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 357/471 = 75.80%
+
+
+7592.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 358/472 = 75.85%
+
+
+8277.bmp  | Ground Truth : 5   | Prediction: 9    | WRONG
+
+
+Running accuracy: 358/473 = 75.69%
+
+
+4306.bmp  | Ground Truth : 6   | Prediction: 3    | WRONG
+
+
+Running accuracy: 358/474 = 75.53%
+
+
+4450.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 359/475 = 75.58%
+
+
+1592.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 360/476 = 75.63%
+
+
+2225.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 361/477 = 75.68%
+
+
+1587.bmp  | Ground Truth : 9   | Prediction: 1    | WRONG
+
+
+Running accuracy: 361/478 = 75.52%
+
+
+7977.bmp  | Ground Truth : 3   | Prediction: 3    | CORRECT
+
+
+Running accuracy: 362/479 = 75.57%
+
+
+72.bmp  | Ground Truth : 5   | Prediction: 2    | WRONG
+
+
+Running accuracy: 362/480 = 75.42%
+
+
+5568.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 363/481 = 75.47%
+
+
+8466.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 364/482 = 75.52%
+
+
+5811.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 365/483 = 75.57%
+
+
+2545.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 366/484 = 75.62%
+
+
+7696.bmp  | Ground Truth : 9   | Prediction: 1    | WRONG
+
+
+Running accuracy: 366/485 = 75.46%
+
+
+2257.bmp  | Ground Truth : 4   | Prediction: 6    | WRONG
+
+
+Running accuracy: 366/486 = 75.31%
+
+
+9580.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 367/487 = 75.36%
+
+
+1634.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 368/488 = 75.41%
+
+
+6500.bmp  | Ground Truth : 5   | Prediction: 9    | WRONG
+
+
+Running accuracy: 368/489 = 75.26%
+
+
+7097.bmp  | Ground Truth : 5   | Prediction: 5    | CORRECT
+
+
+Running accuracy: 369/490 = 75.31%
+
+
+3147.bmp  | Ground Truth : 1   | Prediction: 1    | CORRECT
+
+
+Running accuracy: 370/491 = 75.36%
+
+
+3588.bmp  | Ground Truth : 8   | Prediction: 3    | WRONG
+
+
+Running accuracy: 370/492 = 75.20%
+
+
+21.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 371/493 = 75.25%
+
+
+3417.bmp  | Ground Truth : 9   | Prediction: 9    | CORRECT
+
+
+Running accuracy: 372/494 = 75.30%
+
+
+8400.bmp  | Ground Truth : 7   | Prediction: 7    | CORRECT
+
+
+Running accuracy: 373/495 = 75.35%
+
+
+7447.bmp  | Ground Truth : 4   | Prediction: 4    | CORRECT
+
+
+Running accuracy: 374/496 = 75.40%
+
+
+1718.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 375/497 = 75.45%
+
+
+5112.bmp  | Ground Truth : 0   | Prediction: 0    | CORRECT
+
+
+Running accuracy: 376/498 = 75.50%
+
+
+7450.bmp  | Ground Truth : 2   | Prediction: 2    | CORRECT
+
+
+Running accuracy: 377/499 = 75.55%
+
+
+5639.bmp  | Ground Truth : 8   | Prediction: 8    | CORRECT
+
+
+Running accuracy: 378/500 = 75.60%
