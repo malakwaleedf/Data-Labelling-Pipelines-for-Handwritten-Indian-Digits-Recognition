@@ -1,14 +1,14 @@
-# Data Labelling Pipelines for Handwritten Indian Digits Recognition
+# Data Labeling Pipelines for Handwritten Indian Digits Recognition
 
 ## Overview
-Manual data labelling is expensive and time-consuming. This project investigates multiple semi-automated labelling pipelines designed to minimize human effort while maintaining high accuracy.
+Manual data labeling is expensive and time-consuming. This project investigates multiple semi-automated labeling pipelines designed to minimize human effort while maintaining high accuracy.
 
 We work with a dataset of 10,000 unlabeled grayscale images (28×28) representing handwritten Indian digits (0–9). The goal is to assign correct labels using efficient pipelines with minimal manual intervention.
 
 ---
 
 ## Objectives
-- Design and implement automated labelling pipelines 
+- Design and implement automated labeling pipelines 
 - Achieve ≥98% labelling accuracy
 - Minimize total manual annotation time
 - Compare different strategies in terms of accuracy and efficiency
@@ -27,8 +27,8 @@ We work with a dataset of 10,000 unlabeled grayscale images (28×28) representin
 
 ---
 
-### 2. Seed Labelling + Augmentation + Self-Training
-- Manual labelling of 300 samples
+### 2. Seed Labeling + Augmentation + Self-Training
+- Manual labeling of 300 samples
 - Data augmentation (rotation, noise, shifts)
 - Initial SVM training
 - Active learning (boundary samples)
@@ -37,7 +37,7 @@ We work with a dataset of 10,000 unlabeled grayscale images (28×28) representin
 
 ---
 
-### 3. LLM-Based Labelling with Agreement Validation
+### 3. LLM-Based Labeling with Agreement Validation
 - Benchmark multiple vision-capable LLMs
 - Select top 2 performing models
 - Label dataset independently
